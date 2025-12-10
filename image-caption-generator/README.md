@@ -16,7 +16,7 @@ python caption.py
 
 Output:
 
-Caption: a woman standing next to a car on a sunny day
+Caption: a woman standing next to a car on a sunny day 
 
 ## 📌 Model Used
 Salesforce BLIP: `blip-image-captioning-base`
